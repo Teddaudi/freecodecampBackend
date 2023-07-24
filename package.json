@@ -1,12 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author":"Ted Daudi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js",
-		"author":"Ted Daudi"
+		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
